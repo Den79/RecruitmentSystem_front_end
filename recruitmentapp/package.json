@@ -15,7 +15,7 @@
     "material-ui": "^0.20.2",
     "material-ui-pagination": "^1.1.6",
     "moment": "^2.24.0",
-    "node-sass": "4.12.0",
+    "node-sass": "4.13.1",
     "perfect-scrollbar": "^1.5.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
